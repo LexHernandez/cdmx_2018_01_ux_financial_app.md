@@ -13,11 +13,10 @@
   * [Evaluación](#evaluaci-n)
     + [UX Design](#ux-design)
     + [Soft skills](#soft-skills)
+  * [Resultados](#resultados)
     + [Google Sites](#google-sites)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-# Aplicación financiera
+# Aplicación financiera (Reto por Laboratoria)
 
 ## Preámbulo
 
@@ -256,3 +255,10 @@ que deberías alcanzar al finalizar este proyecto:
 |Trabajo en equipo (trabajo colaborativo y responsabilidad)| 4 |
 |Comunicación eficaz| 4 |
 |Presentaciones| 4 
+
+## Resultados
+Durante 3 semanas fui consultora líder del proyecto, al termino se obtuvieron resultados que son evidenciados en la plataforma de Google Sites. 
+
+### Google Sites
+
+El proceso y resultado son reportados en <a href='https://sites.google.com/view/mimarranito'>Mi Marranito</a>
